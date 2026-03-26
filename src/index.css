@@ -330,7 +330,7 @@ select {
 
 .kpi-pie-panel {
   display: grid;
-  grid-template-rows: auto minmax(0, 1fr);
+  grid-template-rows: auto auto minmax(0, 1fr);
   gap: 6px;
   align-items: stretch;
   height: 100%;
@@ -342,7 +342,7 @@ select {
   display: grid;
   grid-template-rows: minmax(0, 1fr) auto;
   justify-items: center;
-  align-items: center;
+  align-items: stretch;
   gap: 6px;
   height: 100%;
   min-height: 0;
@@ -359,9 +359,11 @@ select {
 }
 
 .kpi-pie-chart {
-  width: clamp(90px, 8vw, 146px);
-  height: clamp(90px, 8vw, 146px);
+  width: min(100%, clamp(90px, 8vw, 146px));
+  height: auto;
+  aspect-ratio: 1 / 1;
   max-width: 100%;
+  max-height: 100%;
   overflow: visible;
 }
 
@@ -1008,11 +1010,11 @@ tbody tr:hover {
   }
 
   .kpi-pie-chart {
-    width: clamp(78px, 7vw, 120px);
-    height: clamp(78px, 7vw, 120px);
+    width: min(100%, clamp(68px, 6.2vw, 102px));
   }
 
   .kpi-pie-legend {
+    flex-wrap: nowrap;
     gap: 4px 8px;
   }
 
@@ -1122,6 +1124,10 @@ tbody tr:hover {
   .theme-row-head {
     align-items: flex-start;
     flex-direction: column;
+  }
+
+  .kpi-pie-legend {
+    flex-wrap: wrap;
   }
 
   .kpi-pie-legend-item {
