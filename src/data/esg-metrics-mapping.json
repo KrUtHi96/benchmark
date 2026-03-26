@@ -1,0 +1,968 @@
+[
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate Transition Plan",
+    "csrdRequirementId": "E1-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Climate Transition Plan"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate Change Mitigation Policies",
+    "csrdRequirementId": "E1-2",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Physical and Transition Climate Risks & Opp."
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate Change Mitigation Actions",
+    "csrdRequirementId": "E1-3",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Climate Enterprise Risk Management (ERM) Integration"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Greenhouse Gas (GHG) Emissions Targets",
+    "csrdRequirementId": "E1-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions reduction targets"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Fuel Consumption",
+    "csrdRequirementId": "E1-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Energy consumption"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Energy Intensity",
+    "csrdRequirementId": "E1-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Energy consumption"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Energy Consumption",
+    "csrdRequirementId": "E1-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Energy consumption"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Renewable and Non-Renewable Energy Production",
+    "csrdRequirementId": "E1-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Renewable energy consumption"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Scope 1 Emissions",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Scope 1"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Scope 2 Emissions",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Scope 2 (market based)"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Scope 3 Emissions",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Scope 3 (total) and specified categories"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "GHG Emissions Calculation Methodology",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "GHG Emissions Intensity",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Revenue for GHG Intensity",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Total GHG Emissions Footprint",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Carbon Offsets",
+    "csrdRequirementId": "E1-7",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Role of Carbon Offsets and/or RECs"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "GHG Removals",
+    "csrdRequirementId": "E1-7",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Role of Carbon Offsets and/or RECs"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Internal Carbon Price",
+    "csrdRequirementId": "E1-8",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Internal Carbon price disclosure"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate Physical Risks",
+    "csrdRequirementId": "E1-9",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Physical and Transition Climate Risks & Opp."
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate Transition Risks",
+    "csrdRequirementId": "E1-9",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Physical and Transition Climate Risks & Opp."
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Finance Risk from Climate Change",
+    "csrdRequirementId": "E1-9",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Financial Impacts of Severe Weather Events"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Financial Impact of Climate Risks",
+    "csrdRequirementId": "E1-9",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Financial Impacts of Severe Weather Events"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Revenue From Climate Solutions",
+    "csrdRequirementId": "E1-9",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Physical and Transition Climate Risks & Opp."
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate-linked Executive Pay",
+    "csrdRequirementId": "E1.GOV-3",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Sustainability-linked executive compensation"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate Change Strategy",
+    "csrdRequirementId": "E1.IRO-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Climate Transition Plan"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate Scenario Analysis",
+    "csrdRequirementId": "E1.SBM-3",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Climate Scenario Analysis"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Pollution Reduction Policies",
+    "csrdRequirementId": "E2-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Pollution Reduction Actions",
+    "csrdRequirementId": "E2-2",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Ecological Limits",
+    "csrdRequirementId": "E2-3",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Hazardous Substance, Soil Contamination and Water Pollution Targets",
+    "csrdRequirementId": "E2-3",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Hazardous waste produced"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Pollution Performance Metrics",
+    "csrdRequirementId": "E2-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Pollution Measurement Methodology",
+    "csrdRequirementId": "E2-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Water Pollution Levels",
+    "csrdRequirementId": "E2-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Soil Pollution Levels",
+    "csrdRequirementId": "E2-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Air Pollution Levels",
+    "csrdRequirementId": "E2-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Microplastics",
+    "csrdRequirementId": "E2-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Highly Hazardous Toxic Substances and Chemicals",
+    "csrdRequirementId": "E2-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Hazardous waste produced"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Financial Impact of Pollution",
+    "csrdRequirementId": "E2-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Revenue From Substances of Concern and Chemicals",
+    "csrdRequirementId": "E2-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Pollution-Related Expenditures",
+    "csrdRequirementId": "E2-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Pollution Remediation Provisions",
+    "csrdRequirementId": "E2-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Pollution Assessment Methodology",
+    "csrdRequirementId": "E2.IRO-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Pollution metrics related to air, water and soil, if relevant"
+  },
+  {
+    "csrdTheme": "Water and marine sources",
+    "csrdTopic": "Water Management Policies",
+    "csrdRequirementId": "E3-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Water consumption"
+  },
+  {
+    "csrdTheme": "Water and marine sources",
+    "csrdTopic": "Water Resource Management",
+    "csrdRequirementId": "E3-2",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Water consumption"
+  },
+  {
+    "csrdTheme": "Water and marine sources",
+    "csrdTopic": "Water and Marine Resource Targets",
+    "csrdRequirementId": "E3-3",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Targets related to Water usage"
+  },
+  {
+    "csrdTheme": "Water and marine sources",
+    "csrdTopic": "Water Consumption Metrics",
+    "csrdRequirementId": "E3-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Water consumption"
+  },
+  {
+    "csrdTheme": "Water and marine sources",
+    "csrdTopic": "Financial Impact of Water Risks",
+    "csrdRequirementId": "E3-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Water consumption"
+  },
+  {
+    "csrdTheme": "Water and marine sources",
+    "csrdTopic": "Water Materiality Assessment",
+    "csrdRequirementId": "E3.IRO-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Water consumption"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Biodiversity Transition Plan",
+    "csrdRequirementId": "E4-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Biodiversity and Ecosystem Policies",
+    "csrdRequirementId": "E4-2",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Biodiversity and Ecosystem Actions",
+    "csrdRequirementId": "E4-3",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Biodiversity and Ecosystem Targets",
+    "csrdRequirementId": "E4-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Biodiversity and Ecosystem Impacts",
+    "csrdRequirementId": "E4-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Financial Impact of Biodiversity Risks",
+    "csrdRequirementId": "E4-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Biodiversity-Related Sites",
+    "csrdRequirementId": "E4.SBM-3",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Biodiversity Impact and Risk Assessment",
+    "csrdRequirementId": "E4.IRO-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Waste and Circular Economy Policies",
+    "csrdRequirementId": "E5-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Circular Economy Policy"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Waste and Circular Economy Actions",
+    "csrdRequirementId": "E5-2",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Circular Economy Policy"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Waste and Circular Economy Targets",
+    "csrdRequirementId": "E5-3",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Targets related to Waste"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Material and Resource Consumption",
+    "csrdRequirementId": "E5-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Circular Economy Policy"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Hazardous Waste",
+    "csrdRequirementId": "E5-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Hazardous waste produced"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Product Lifecycle and Recyclability",
+    "csrdRequirementId": "E5-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Circular Economy Policy"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Total Waste Metrics",
+    "csrdRequirementId": "E5-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Waste generated"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Waste Data Methodology",
+    "csrdRequirementId": "E5-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Waste generated"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Financial Impact of Circular Economy",
+    "csrdRequirementId": "E5-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Circular Economy Policy"
+  },
+  {
+    "csrdTheme": "Resource and circular economy",
+    "csrdTopic": "Circular Economy Materiality",
+    "csrdRequirementId": "E5.IRO-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Circular Economy Policy"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Data Methodology",
+    "csrdRequirementId": "S1-6",
+    "mappedTheme": "Social",
+    "mappedMetric": "Number of Employees"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Demographics (Gender, Region, Age, Type)",
+    "csrdRequirementId": "S1-6",
+    "mappedTheme": "Social",
+    "mappedMetric": "Number of Employees"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Number of Employees",
+    "csrdRequirementId": "S1-6",
+    "mappedTheme": "Social",
+    "mappedMetric": "Number of Employees"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Turnover Rate",
+    "csrdRequirementId": "S1-6",
+    "mappedTheme": "Social",
+    "mappedMetric": "Employee turnover rate"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Contractor and Temporary Worker Demographics (Gender, Region, Age, Type)",
+    "csrdRequirementId": "S1-7",
+    "mappedTheme": "Social",
+    "mappedMetric": "Number of Employees"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Non-Discrimination Policy",
+    "csrdRequirementId": "S1-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Human Rights Policy",
+    "csrdRequirementId": "S1-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Age Breakdown",
+    "csrdRequirementId": "S1-9",
+    "mappedTheme": "Social",
+    "mappedMetric": "Number of Employees"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Fair Wages",
+    "csrdRequirementId": "S1-10",
+    "mappedTheme": "Governance",
+    "mappedMetric": "CEO Pay Ratio"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Social Protection Benefits",
+    "csrdRequirementId": "S1-11",
+    "mappedTheme": "Social",
+    "mappedMetric": "Work-life balance metrics"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Disability Inclusion Metrics",
+    "csrdRequirementId": "S1-12",
+    "mappedTheme": "Social",
+    "mappedMetric": "Ethnic minority employees"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Development Training",
+    "csrdRequirementId": "S1-13",
+    "mappedTheme": "Social",
+    "mappedMetric": "Average hours of training per year per employee"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Work-Related Injury and Illness",
+    "csrdRequirementId": "S1-14",
+    "mappedTheme": "Social",
+    "mappedMetric": "Incident Rate (TRIR)"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Parental Leave Policies",
+    "csrdRequirementId": "S1-15",
+    "mappedTheme": "Social",
+    "mappedMetric": "Work-life balance metrics"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Remuneration Ratios",
+    "csrdRequirementId": "S1-16",
+    "mappedTheme": "Governance",
+    "mappedMetric": "CEO Pay Ratio"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Gender Pay Gap",
+    "csrdRequirementId": "S1-16",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Gender pay gap"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Human Rights Violations",
+    "csrdRequirementId": "S1-17",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Discrimination and Harassment Incidents",
+    "csrdRequirementId": "S1-17",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Safety Policy",
+    "csrdRequirementId": "S1-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Incident Rate (TRIR)"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "General Employee Policies",
+    "csrdRequirementId": "S1-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Engagement Policy",
+    "csrdRequirementId": "S1-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Employee satisfaction survey"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Engagement Processes",
+    "csrdRequirementId": "S1-2",
+    "mappedTheme": "Social",
+    "mappedMetric": "Employee satisfaction survey"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Grievance Resolution Processes",
+    "csrdRequirementId": "S1-3",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Impact Management",
+    "csrdRequirementId": "S1-4",
+    "mappedTheme": "Social",
+    "mappedMetric": "Employee satisfaction survey"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Engagement in Target Setting and Performance",
+    "csrdRequirementId": "S1-5",
+    "mappedTheme": "Social",
+    "mappedMetric": "Employee satisfaction survey"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Collective Bargaining Agreements",
+    "csrdRequirementId": "S1-8",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Value Chain Worker Human Rights Policy",
+    "csrdRequirementId": "S2-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Value Chain Worker Engagement Policy",
+    "csrdRequirementId": "S2-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Supplier code of conduct"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Value Chain Worker Engagement Processes",
+    "csrdRequirementId": "S2-2",
+    "mappedTheme": "Social",
+    "mappedMetric": "Supplier code of conduct"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Value Chain Worker Grievance Channels",
+    "csrdRequirementId": "S2-3",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Value Chain Worker Impacts",
+    "csrdRequirementId": "S2-4",
+    "mappedTheme": "Social",
+    "mappedMetric": "Supply chain incidents"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Value Chain Worker Impact Reduction Targets",
+    "csrdRequirementId": "S2-5",
+    "mappedTheme": "Social",
+    "mappedMetric": "Supply chain incidents"
+  },
+  {
+    "csrdTheme": "Affected communities",
+    "csrdTopic": "Community Human Rights Policy",
+    "csrdRequirementId": "S3-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Affected communities",
+    "csrdTopic": "Community Engagement Policy",
+    "csrdRequirementId": "S3-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Community engagement policy"
+  },
+  {
+    "csrdTheme": "Affected communities",
+    "csrdTopic": "Community Engagement Processes",
+    "csrdRequirementId": "S3-2",
+    "mappedTheme": "Social",
+    "mappedMetric": "Community engagement policy"
+  },
+  {
+    "csrdTheme": "Affected communities",
+    "csrdTopic": "Community Grievance Channels",
+    "csrdRequirementId": "S3-3",
+    "mappedTheme": "Social",
+    "mappedMetric": "Community engagement policy"
+  },
+  {
+    "csrdTheme": "Affected communities",
+    "csrdTopic": "Community Impacts",
+    "csrdRequirementId": "S3-4",
+    "mappedTheme": "Social",
+    "mappedMetric": "Community engagement policy"
+  },
+  {
+    "csrdTheme": "Affected communities",
+    "csrdTopic": "Community Engagement in Target Setting and Performance",
+    "csrdRequirementId": "S3-5",
+    "mappedTheme": "Social",
+    "mappedMetric": "Community engagement policy"
+  },
+  {
+    "csrdTheme": "Consumers and end users",
+    "csrdTopic": "Consumer Human Rights Policy",
+    "csrdRequirementId": "S4-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Product quality and safety policy"
+  },
+  {
+    "csrdTheme": "Consumers and end users",
+    "csrdTopic": "Consumer Engagement Processes",
+    "csrdRequirementId": "S4-2",
+    "mappedTheme": "Social",
+    "mappedMetric": "Responsible marketing/product labelling"
+  },
+  {
+    "csrdTheme": "Consumers and end users",
+    "csrdTopic": "Consumer Grievance Channels",
+    "csrdRequirementId": "S4-3",
+    "mappedTheme": "Social",
+    "mappedMetric": "Product quality and safety policy"
+  },
+  {
+    "csrdTheme": "Consumers and end users",
+    "csrdTopic": "Consumer and End-User Impact Management",
+    "csrdRequirementId": "S4-4",
+    "mappedTheme": "Social",
+    "mappedMetric": "Product quality and safety policy"
+  },
+  {
+    "csrdTheme": "Consumers and end users",
+    "csrdTopic": "Consumer Impact Mitigation Targets",
+    "csrdRequirementId": "S4-5",
+    "mappedTheme": "Social",
+    "mappedMetric": "Product quality and safety policy"
+  },
+  {
+    "csrdTheme": "Consumers and end users",
+    "csrdTopic": "Consumer Material Impact and Risk Assessment",
+    "csrdRequirementId": "S4.SBM-3",
+    "mappedTheme": "Social",
+    "mappedMetric": "Customer data protection"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Corruption and Bribery",
+    "csrdRequirementId": "G1-1",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Anti-bribery/corruption policy"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Whistleblower Policy",
+    "csrdRequirementId": "G1-1",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Whistleblowing policy"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Animal Welfare Policy",
+    "csrdRequirementId": "G1-1",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Code of Ethics"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Supply Chain Management",
+    "csrdRequirementId": "G1-2",
+    "mappedTheme": "Social",
+    "mappedMetric": "Supplier code of conduct"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Anti-Corruption Policy",
+    "csrdRequirementId": "G1-3",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Anti-bribery/corruption policy"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Compliance Training Policy Details",
+    "csrdRequirementId": "G1-3",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Anti-bribery/corruption policy"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Corruption and Bribery Incidents",
+    "csrdRequirementId": "G1-4",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Anti-bribery/corruption policy"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Political Influence and Lobbying",
+    "csrdRequirementId": "G1-5",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Lobbying disclosure"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Responsible Payment Practices and Supplier Relationships",
+    "csrdRequirementId": "G1-6",
+    "mappedTheme": "Social",
+    "mappedMetric": "Supplier code of conduct"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Management Expertise In Business Conduct",
+    "csrdRequirementId": "G1.GOV-1",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Code of Ethics"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "GHG Emissions Target Setting",
+    "csrdRequirementId": "E1-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions reduction targets"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Intensity GHG Emission Targets",
+    "csrdRequirementId": "E1-4",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions reduction targets"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Scope 1, 2, 3 GHG Emissions",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "GHG Emissions by Country and Subsidiary",
+    "csrdRequirementId": "E1-6",
+    "mappedTheme": "Environment",
+    "mappedMetric": "GHG emissions"
+  },
+  {
+    "csrdTheme": "Pollution",
+    "csrdTopic": "Toxic Substances and Chemicals",
+    "csrdRequirementId": "E2-5",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Hazardous waste produced"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Community Engagement in Biodiversity Management",
+    "csrdRequirementId": "E4.IRO-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Biodiversity and ecosystems",
+    "csrdTopic": "Biodiversity Scenario Analysis and Planning",
+    "csrdRequirementId": "E4.IRO-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Biodiversity impact policy"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Workforce Composition, Impact, and Risk Assessment",
+    "csrdRequirementId": "S1.SBM-3",
+    "mappedTheme": "Social",
+    "mappedMetric": "Number of Employees"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Development",
+    "csrdRequirementId": "S1-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Employee Training Disclosure Detail"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Employee Development Initiatives",
+    "csrdRequirementId": "S1-4",
+    "mappedTheme": "Social",
+    "mappedMetric": "Average hours of training per year per employee"
+  },
+  {
+    "csrdTheme": "Own workforce",
+    "csrdTopic": "Senior Management Gender Composition",
+    "csrdRequirementId": "S1-9",
+    "mappedTheme": "Social",
+    "mappedMetric": "Females in executive level positions"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Value Chain Worker Impact and Risk Assessment",
+    "csrdRequirementId": "S2.SBM-3",
+    "mappedTheme": "Social",
+    "mappedMetric": "Supply chain incidents"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Human Trafficking and Forced Labor",
+    "csrdRequirementId": "S2-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Human rights policy"
+  },
+  {
+    "csrdTheme": "Workers in the value chain",
+    "csrdTopic": "Supplier Code of Conduct",
+    "csrdRequirementId": "S2-1",
+    "mappedTheme": "Social",
+    "mappedMetric": "Supplier code of conduct"
+  },
+  {
+    "csrdTheme": "Affected communities",
+    "csrdTopic": "Community Impact Assessment",
+    "csrdRequirementId": "S3.SBM-3",
+    "mappedTheme": "Social",
+    "mappedMetric": "Community engagement policy"
+  },
+  {
+    "csrdTheme": "Affected communities",
+    "csrdTopic": "Community Engagement and Development",
+    "csrdRequirementId": "S3-4",
+    "mappedTheme": "Social",
+    "mappedMetric": "Community engagement policy"
+  },
+  {
+    "csrdTheme": "Business conduct",
+    "csrdTopic": "Business Conduct and Corporate Culture",
+    "csrdRequirementId": "G1-1",
+    "mappedTheme": "Governance",
+    "mappedMetric": "Code of Ethics"
+  },
+  {
+    "csrdTheme": "Climate change",
+    "csrdTopic": "Climate Scenario Analysis and Risk Assessment",
+    "csrdRequirementId": "E1.IRO-1",
+    "mappedTheme": "Environment",
+    "mappedMetric": "Climate Scenario Analysis"
+  }
+]
