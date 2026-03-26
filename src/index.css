@@ -955,6 +955,114 @@ tbody tr:hover {
   }
 }
 
+@media (max-width: 1366px), (max-height: 780px) {
+  .benchmark-page {
+    padding: 12px;
+    gap: 8px;
+    grid-template-rows: auto minmax(130px, 24%) minmax(0, 1fr);
+  }
+
+  .control-strip,
+  .top-summary-grid,
+  .content-grid {
+    gap: 8px;
+  }
+
+  .panel {
+    padding: 10px;
+  }
+
+  .panel header {
+    margin-bottom: 8px;
+  }
+
+  .dumbbell-chart {
+    height: 22px;
+  }
+
+  .dumbbell-point {
+    width: 12px;
+    height: 12px;
+  }
+
+  .dumbbell-point.benchmark {
+    width: 10px;
+    height: 10px;
+  }
+
+  .dumbbell-point.sample-leader {
+    width: 8px;
+    height: 8px;
+  }
+
+  .point-label {
+    font-size: 8px;
+  }
+
+  .point-above .point-label {
+    bottom: calc(100% + 2px);
+  }
+
+  .point-below .point-label {
+    top: calc(100% + 2px);
+  }
+
+  .kpi-pie-chart {
+    width: clamp(78px, 7vw, 120px);
+    height: clamp(78px, 7vw, 120px);
+  }
+
+  .kpi-pie-legend {
+    gap: 4px 8px;
+  }
+
+  .kpi-pie-legend-item {
+    font-size: 10px;
+    gap: 5px;
+  }
+
+  .disclosure-header-top {
+    gap: 8px;
+  }
+
+  .disclosure-header-controls {
+    gap: 6px;
+  }
+
+  .metric-status-tabs {
+    gap: 4px;
+  }
+
+  .metric-status-tabs button {
+    font-size: 9px;
+    padding: 4px 7px;
+  }
+
+  .material-items-inline .material-items-trigger {
+    width: 146px;
+    font-size: 11px;
+    padding: 5px 7px;
+  }
+
+  table {
+    min-width: 660px;
+  }
+
+  th,
+  td {
+    padding: 6px 5px;
+    font-size: 11px;
+  }
+
+  th {
+    font-size: 10px;
+  }
+
+  .mini-graph {
+    width: 128px;
+  }
+}
+
 @media (max-width: 1160px) {
   .control-strip,
   .top-summary-grid,
