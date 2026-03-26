@@ -72,3 +72,23 @@ export default defineConfig([
 ])
 ```
 # benchmark
+
+## Vercel Deployment Notes
+
+Deploy the app from the repository root:
+
+- Root Directory: `/Users/kruthi/Dev/gapanalysis`
+- Framework Preset: `Vite`
+- Build Command: `npm run build`
+- Output Directory: `dist`
+- Install Command: `npm install`
+
+`vercel.json` includes an SPA rewrite so direct loads on BrowserRouter routes do not 404.
+
+After deploy, hard-refresh these routes to verify deep-link support:
+
+- `/gap-analysis/benchmarking`
+- `/gap-analysis/detail`
+- `/gap-analysis/insights`
+
+If you want to deploy the template app under `benchmarking-app/`, create a separate Vercel project for that folder.
